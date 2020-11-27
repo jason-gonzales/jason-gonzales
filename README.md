@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... I love sports and coding!
 
 ### Github Stats
-![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jason-gonzales&hide=contribs,prs)
+ <img src="https://github-readme-stats.vercel.app/api?username=markgallardo&hide=contribs&theme=hacker"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason-gonzales&layout=compact"/>
 
 ### Languages and Tools:
