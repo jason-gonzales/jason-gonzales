@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... jasongonzo25@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love sports and coding!
 -->
