@@ -9,4 +9,3 @@
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... jasongonzo25@gmail.com
 - ⚡ Fun fact: ... I love sports and coding!
--->
